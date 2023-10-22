@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\bin\Debug\net6.0\SEMINAR9.exe
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\bin\Debug\net6.0\SEMINAR9.deps.json
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\bin\Debug\net6.0\SEMINAR9.runtimeconfig.json
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\bin\Debug\net6.0\SEMINAR9.dll
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\bin\Debug\net6.0\SEMINAR9.pdb
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\SEMINAR9.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\SEMINAR9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\SEMINAR9.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\SEMINAR9.AssemblyInfo.cs
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\SEMINAR9.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\SEMINAR9.dll
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\refint\SEMINAR9.dll
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\SEMINAR9.pdb
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\SEMINAR9.genruntimeconfig.cache
+C:\Users\User\Downloads\ПРОГРАММИРОВАНИЕ\ЯЗЫКИ\SEMINAR9\SEMINAR9\obj\Debug\net6.0\ref\SEMINAR9.dll
