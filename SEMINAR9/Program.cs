@@ -51,4 +51,19 @@
 //}
 //NumsFromTo(10, 5);
 
-//
+//Напишите програму, которая на вход принимает два числа А и В, и возводит число А в целую степень В
+//А=3 В=5 -> 243 (3 степень 5)
+//А=2 В=3 -> 8
+
+int Exponentiation (int a, int b)
+{
+   if (b >=1)
+   {
+     return Exponentiation(a, b-1) *a;
+   }
+   else return 1;
+}
+
+System.Console.Write(Exponentiation(2, 3));
+
+
